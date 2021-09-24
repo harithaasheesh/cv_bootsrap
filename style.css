@@ -1,0 +1,33 @@
+.row1{
+    border: 1px solid #2287c1;
+    background-color:#2287c1;
+    height: 100px;
+    position: relative;
+}
+.firstcol{
+    
+    background-color: #354763;
+    height: 800px;
+   
+}
+.image{
+    width: 13%;
+    height: 90px;
+    position: absolute;
+    left: 85%;
+}
+.secondcol{
+    background-color: #afbed6;
+    
+
+}
+.thirdcol{
+    background-color: #afbed6;
+}
+.details{
+    color: white;
+    text-decoration: none;
+   
+    
+
+}
